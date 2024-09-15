@@ -19,7 +19,7 @@
 👀 I’m interested in front-end development and UI/UX design.  
 🌱 I’m currently learning React, CSS animations, and responsive design.  
 💞️ I’m looking to collaborate on exciting front-end projects and design systems.  
-📫 How to reach me: pamayresdl@gmail.com 
+📫 How to reach me: pamayresdl@gmail.com                                        
 ⚡ Fun fact: I love solving design puzzles and bringing creative ideas to life through code!  
 
 💼 Always open to new learning and collaboration opportunities! 🚀
