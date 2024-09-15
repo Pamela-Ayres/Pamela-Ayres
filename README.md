@@ -19,7 +19,7 @@
 👀 I’m interested in front-end development and UI/UX design.  
 🌱 I’m currently learning React, CSS animations, and responsive design.  
 💞️ I’m looking to collaborate on exciting front-end projects and design systems.  
-📫 How to reach me: pamela.dev@gmail.com  
+📫 How to reach me: pamayresdl@gmail.com 
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I love solving design puzzles and bringing creative ideas to life through code!  
 
@@ -37,9 +37,9 @@ I'm excited to share my progress, projects, and contributions here on GitHub. Jo
 </details>
 
 ## 👋 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-ayres/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-ayres-a945b018b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pamela-ayres.dev) 
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/PamelaAyres)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/PamelaAyre3)
 
 ## 📚 Currently Studying
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
