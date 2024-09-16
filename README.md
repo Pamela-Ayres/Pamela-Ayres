@@ -37,7 +37,7 @@ I'm excited to share my progress, projects, and contributions here on GitHub. Jo
 
 ## 👋 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-ayres-a945b018b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pamela-ayres.dev) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-tawny-psi.vercel.app/) 
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/PamelaAyre3)
 
 ## 📚 Currently Studying
